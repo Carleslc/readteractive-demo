@@ -1,0 +1,9 @@
+{
+  "generator-readteractive": {
+    "promptValues": {
+      "feature": "Create a new book",
+      "author": "Carlos Lázaro",
+      "language": "Spanish"
+    }
+  }
+}
