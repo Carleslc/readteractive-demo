@@ -24,6 +24,6 @@ Te preocupa su situación y decides llamar para ver si está en casa y asegurart
 
 Hoy tienes el día libre, así que te pones a poner en orden el piso. No obstante, no puedes dejar de darle vueltas a la noticia, y te posee la inquietud. Quizás es hora de volver a llamar, o bien puedes ir a la policía a pedir más información. También puede que visitar el apartamento de Luke directamente sea la mejor opción. Si él no está en casa quizás su vecino puede decirte algo más. ¿Qué harás?
 
-- (Volver a llamar -> [el-robo])
+- (Volver a llamar -> [llamar])
 - (Preguntar a la policía -> [el-robo])
 - (Ir al apartamento de Luke -> [el-robo])
